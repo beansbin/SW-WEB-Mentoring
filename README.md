@@ -10,4 +10,4 @@
 |<center>**5차**</center> | <center>9월 2일</center> |*[Node.js 기본 및 웹서버 설치](https://github.com/beansbin/SW-WEB-Mentoring/tree/main)* |
 |<center>**6차**</center> | <center>9월 16일</center> |*[Express 모듈 및 MongoDB 설치](https://github.com/beansbin/SW-WEB-Mentoring/blob/main/Lesson6_Express%20%EB%AA%A8%EB%93%88%20%EB%B0%8F%20MongoDB%20%EC%84%A4%EC%B9%98.md)* |
 |<center>**7차**</center> | <center>10월 21일</center> |*[로그인 기능 구현](https://github.com/beansbin/SW-WEB-Mentoring/blob/main/Lesson7_%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EA%B8%B0%EB%8A%A5%20%EA%B5%AC%ED%98%84.md)* |
-|<center>**8차**</center> | <center>10월 28일</center> |*회원가입 기능 구현 및 깃 소개* |
+|<center>**8차**</center> | <center>10월 28일</center> |*[회원가입 기능 구현 및 깃 소개](https://github.com/beansbin/SW-WEB-Mentoring/blob/main/Lesson8_%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%20%EA%B8%B0%EB%8A%A5%20%EA%B5%AC%ED%98%84%20%EB%B0%8F%20%EA%B9%83%20%EC%86%8C%EA%B0%9C.md)* |
