@@ -1,6 +1,11 @@
 # SW-WEB-Mentoring
 2021 SW에듀서포터즈 세명컴퓨터고등학교 WEB 멘토링 
 
+* 2021 서울여자대학교 SW에듀서포터즈 활동
+* 세명컴퓨터고등학교 고등학생 5명과 함께하는 목요일 Zoom pm 8:00 - pm 8:40
+* HTML5, CSS JavaScript를 이용한 프론트엔드 구성
+* Node.js를 이용한 백엔드 구성(로그인, 회원가입)
+
 |  <center>차수</center> |  <center>날짜</center> |  <center>주제</center> |
 |:--------|:--------:|--------:|
 |<center>**1차**</center> | <center>7월 15일</center> |*[개발환경 구축 및 HTML, CSS 기본](https://github.com/beansbin/SW-WEB-Mentoring/blob/main/Lesson1_%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%20%EB%B0%8F%20HTML%2C%20CSS%20%EA%B8%B0%EB%B3%B8.md)*|
